@@ -17,6 +17,7 @@ Current PORs:
 I was a coordinator in MEA webops and mobops team.
 I was a deputy placement coordinator
 I was a coordinator in envisage 
+
 Why I want to work in the team:
 ------------------------------
 I am interested in machine learning and have already been taking relevant courses during the semester.
