@@ -25,10 +25,12 @@ I want to use it in practical applications and Abhiyaan aptly meets my goals.
 
 Relevant Courses:
 ----------------
+
 In Institute
 ------------
 CS1100 Passed
 ME2400 On-going
+
 Online
 ------
 Android development by google
