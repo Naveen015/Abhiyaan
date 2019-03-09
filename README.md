@@ -15,7 +15,7 @@ Worked on eagle,creo,arduino for a project in Envisage.
 Current PORs:
 -------------
 I was a coordinator in MEA webops and mobops team.
-I was a deputy placement coordinator
+I was a deputy placement coordinator.
 I was a coordinator in envisage 
 
 Why I want to work in the team:
