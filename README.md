@@ -36,7 +36,12 @@ Online
 Android development by google
 Andrew NG Machine Learning - On-going
 
-
+Bibliography
+------------
+wiki.ros.org
+geeksforgeeks
+youtube
+Book "DataStructures and Algorithms made easy" by Narasimha Karumanchi
 
 PS
 --
